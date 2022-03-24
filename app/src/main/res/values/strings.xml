@@ -1,0 +1,39 @@
+<resources>
+
+
+    <!-- Activity titles -->
+    <string name="app_name">Motivational Wallpapers</string>
+
+
+    <!-- Anim -->
+    <string name="interval">Interval</string>
+    <string name="animation">Animation Off</string>
+    <string name="animationn">Animation On</string>
+    <string name="minutes">minute</string>
+    <string name="minute">minutes</string>
+    <string name="intervalerr">Interval cannot be 0</string>
+    <string name="picture">Select pictures first</string>
+
+    <!-- Meniu -->
+    <string name="delete">Image cannot be deleted</string>
+    <string name="selimages">Select images</string>
+    <string name="back">press back</string>
+    <string name="img">"Image Selected" </string>
+
+    <!-- ViewPic -->
+    <string name="background">Background set</string>
+
+    <!-- activity grid view compat -->
+    <string name="done">      Done      </string>
+
+    <!-- viewpic -->
+    <string name="setback"> Set Background </string>
+
+    <!-- wallie -->
+    <string name="anim">Animation</string>
+    <string name="seltime">Select Time</string>
+    <string name="save">          Save          </string>
+    <string name="images">Images</string>
+    <string name="shuffle">Enable Shuffle Mode</string>
+
+</resources>
